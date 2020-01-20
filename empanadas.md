@@ -1,6 +1,8 @@
-# Ingridients
+# Empanadas
 
-## Dough
+## Ingridients
+
+### Dough
 
 (for 1 poriton of filling, about 12 pieces).
 
@@ -12,7 +14,7 @@
 - 1tsp salt
 - 1 yolk (for wash)
 
-## Beef filling
+### Beef filling
 
 - 500g minced beef
 - 1000g onion, diced
@@ -26,7 +28,7 @@
 - raisins
 - olive oil
 
-## Salmon filling
+### Salmon filling
 
 - 500g salmon fillet
 - 150g cream cheese
@@ -37,9 +39,9 @@
 - 1 onion, diced
 - olive oil
 
-# Preparation
+## Preparation
 
-## Dough
+### Dough
 
 Sift flower into a bowl. Add salt. Mix in egg, wine, water, melted butter. Wrap it up and leave to rest for 1h in the fridge.
 
@@ -47,7 +49,7 @@ Divide the dough into equal parts, roll into 15-20cm circles, 1mm thick.
 
 Mix yolk with 1-2 tbsp of cold water.
 
-## Beef filling
+### Beef filling
 
 [Video](https://www.youtube.com/watch?v=orELQeUL8J8)
 
@@ -57,7 +59,7 @@ Cut boiled eggs into quarters.
 
 Into each dough circle, put in 1 tbsp of beef filling, egg quarter, 1 olive, few raisins.
 
-## Salmon filling 
+### Salmon filling 
 
 [Video](https://www.youtube.com/watch?v=YDw9IuwIP4g)
 
